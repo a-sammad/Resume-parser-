@@ -1,0 +1,15 @@
+python
+java
+c++
+machine learning
+data analysis
+sql
+html
+css
+javascript
+react
+nodejs
+nlp
+deep learning
+excel
+power bi
